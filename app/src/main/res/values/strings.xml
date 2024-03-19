@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Github Search</string>
+    <string name="hello_blank_fragment">Tes</string>
+    <string name="user">User</string>
+    <string name="followers">Follower</string>
+    <string name="following">Following</string>
+    <string name="search">pencarian</string>
+    <string name="person">orang</string>
+    <string name="find_user">Temukan Pengguna</string>
+    <string name="nama_user">Nama Pengguna</string>
+    <string name="btnback">btnback</string>
+    <string name="username">Nanda Satria Putra</string>
+    <string name="close">tutup</string>
+    <string name="user_not_found">Pengguna Tidak Ditemukan</string>
+    <string name="favorite_menu">Favorit</string>
+    <string name="setting_menu">Setting</string>
+    <string name="login">Login</string>
+    <string name="fabadd">fabTambah</string>
+    <string name="dark_mode">Mode Gelap</string>
+    <string name="add">Tambah</string>
+    <string name="followers_count">Follower: %1$d</string>
+    <string name="following_count">Following: %1$d</string>
+    <string name="bio">biografi</string>
+    <string name="github_user_search">Github User Search</string>
+    <string name="detail_user">Detail User</string>
+    <string name="setting_theme">Tema</string>
+    <string name="favorite_users">Favorite User</string>
+    <string name="iv_profile">iv_profil</string>
+    <string name="splash">splash</string>
+</resources>
